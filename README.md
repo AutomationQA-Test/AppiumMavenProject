@@ -1,2 +1,2 @@
-# AppiumMavenProject
+# AppiumProject
 Practice Project
